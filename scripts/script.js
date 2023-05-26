@@ -181,7 +181,7 @@ function translatePt() {
 
     /* Change first course */
     let firstCourseEducation = document.getElementById('info-first-course')
-    let newFirstCourseEducation = 'Tecnologias: Javascript, Nodejs, React & React Native, HTML & CSS, Mongodb e Postgresql.'
+    let newFirstCourseEducation = 'Tecnologias: Javascript, Java, Python, PHP, C, HTML & CSS e Postgresql.'
     firstCourseEducation.innerHTML = newFirstCourseEducation
     
     /* Change second course */
